@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Overview of the school district analysis:
-### Purpose of this project to assess student math, reading and overall performance at Thomas High School. The high school has recently experienced academic dishonesty and we must assess the new true student performance after the scandal.
+Purpose of this project to assess student math, reading and overall performance at Thomas High School. The high school has recently experienced academic dishonesty and we must assess the new true student performance after the scandal.
 ## Results:
 - District results are impacted marginally after our analysis. Performance declined by only 100th of a percent. 
 - School results are impacted marginally after our analysis. Performance declined by only 100th of a percent
